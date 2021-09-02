@@ -1,0 +1,249 @@
+ERROR: Invalid transaction type!
+ERROR: Invalid ID!
+ERROR: Account 2000 is already open. Transaction refused.
+ERROR: Invalid ID!
+ERROR: Amount must be positive!
+ERROR: Not enough funds to withdraw 20000 from Jack Adams Money Market
+ERROR: Number of parameters is wrong!
+ERROR: The ID can only be numbers!
+ERROR: Not enough funds to withdraw 200500 from Jones Jillian Capital Value Fund
+ERROR: Not enough funds to withdraw 130500 from Gibbons Adam Value Fund
+ERROR: Account 1111 not found. Transferal refused.
+ERROR: Amount must be positive!
+ERROR: Account 2000 has insufficient funds. Transaction refused.
+ERROR: Account 2000 has insufficient funds. Transaction refused.
+ERROR: Account 2000 has insufficient funds. Transaction refused.
+ERROR: Account 2002 has insufficient funds. Transaction refused.
+ERROR: Account 2002 has insufficient funds. Transaction refused.
+ERROR: Account 2004 has insufficient funds. Transaction refused.
+ERROR: Account 2002 has insufficient funds. Transaction refused.
+ERROR: Account 2002 has insufficient funds. Transaction refused.
+ERROR: Account 2003 has insufficient funds. Transaction refused.
+ERROR: Account 2003 has insufficient funds. Transaction refused.
+Transaction History for Adams Jack Money Market: $42977
+  D 20010 10000
+  W 20010 5000
+  W 20010 5000
+  D 20010 50000
+  W 20010 7023
+  T 20010 15000 20010
+  T 20010 15000 20010
+Transaction History for Adams Jack Prime Money Market: $15506
+  D 20011 10000
+  W 20011 7000
+  W 20011 3000
+  T 20013 506 20011
+  T 20003 1000 20011 (Failed)
+  T 20023 10000 20011
+  T 20023 5000 20011
+  T 20033 20000 20011 (Failed)
+Transaction History for Adams Jack Short-Term Bond: $4274
+  D 20013 10000
+  W 20013 5220
+  T 20013 506 20011
+Transaction History for Adams Jack by fund.
+Money Market: $42977
+  D 20010 10000
+  W 20010 5000
+  W 20010 5000
+  D 20010 50000
+  W 20010 7023
+  T 20010 15000 20010
+  T 20010 15000 20010
+Prime Money Market: $15506
+  D 20011 10000
+  W 20011 7000
+  W 20011 3000
+  T 20013 506 20011
+  T 20003 1000 20011 (Failed)
+  T 20023 10000 20011
+  T 20023 5000 20011
+  T 20033 20000 20011 (Failed)
+Long-Term Bond: $0
+  D 20012 10000
+  W 20012 10000
+Short-Term Bond: $4274
+  D 20013 10000
+  W 20013 5220
+  T 20013 506 20011
+500 Index Fund: $10000
+  D 20014 10000
+Capital Value Fund: $4980
+  D 20015 10000
+  W 20015 5020
+Growth Equity Fund: $10000
+  D 20016 10000
+Growth Index Fund: $10000
+  D 20017 10000
+Value Fund: $10000
+  D 20018 10000
+Value Stock Index: $10000
+  D 20019 10000
+Transaction History for John Smith by fund.
+Short-Term Bond: $0
+  T 20003 1000 20011 (Failed)
+  T 20003 20000 20021 (Failed)
+  T 20003 20000 20032 (Failed)
+ERROR: Invalid ID!
+ERROR: Number of parameters is wrong!
+Transaction History for Adams Cindy by fund.
+Money Market: $7977
+  D 20020 15000
+  W 20020 7023
+  T 20031 15200 20020 (Failed)
+Prime Money Market: $0
+  D 20021 15000
+  W 20021 15000
+  T 20003 20000 20021 (Failed)
+  T 20021 20000 20030 (Failed)
+  T 20021 15200 20030 (Failed)
+  T 20043 20000 20021 (Failed)
+  T 20021 4650 20030 (Failed)
+  T 20021 15200 20030 (Failed)
+Long-Term Bond: $15000
+  D 20022 15000
+Short-Term Bond: $0
+  D 20023 15000
+  T 20023 10000 20011
+  T 20023 5000 20011
+500 Index Fund: $15000
+  D 20024 15000
+Capital Value Fund: $15000
+  D 20025 15000
+Growth Equity Fund: $15000
+  D 20026 15000
+Growth Index Fund: $15000
+  D 20027 15000
+Value Fund: $15000
+  D 20028 15000
+Value Stock Index: $15000
+  D 20029 15000
+Transaction History for Jones Jillian by fund.
+Money Market: $10350
+  D 20030 15000
+  T 20021 20000 20030 (Failed)
+  T 20021 15200 20030 (Failed)
+  T 20021 4650 20030 (Failed)
+  T 20021 15200 20030 (Failed)
+  T 20030 4650 20040
+Prime Money Market: $15000
+  D 20031 15000
+  T 20031 15200 20020 (Failed)
+Long-Term Bond: $15000
+  D 20032 15000
+  T 20003 20000 20032 (Failed)
+  T 20043 7950 20032
+  T 20032 7950 20042
+Short-Term Bond: $15000
+  D 20033 15000
+  T 20033 20000 20011 (Failed)
+500 Index Fund: $14013
+  D 20034 15000
+  W 20034 987
+Capital Value Fund: $15000
+  D 20035 15000
+  W 20035 200500 (Failed)
+Growth Equity Fund: $15000
+  D 20036 15000
+Growth Index Fund: $14877
+  D 20037 15000
+  W 20037 123
+Value Fund: $14097
+  D 20038 15000
+  W 20038 903
+Value Stock Index: $14424
+  D 20039 15000
+  W 20039 576
+Transaction History for Gibbons Adam by fund.
+Money Market: $19650
+  D 20040 15000
+  T 20030 4650 20040
+Prime Money Market: $15000
+  D 20041 15000
+Long-Term Bond: $22053
+  D 20042 15000
+  W 20042 897
+  T 20032 7950 20042
+Short-Term Bond: $6285
+  D 20043 15000
+  W 20043 765
+  T 20043 20000 20021 (Failed)
+  T 20043 7950 20032
+500 Index Fund: $15000
+  D 20044 15000
+Capital Value Fund: $9980
+  D 20045 15000
+  W 20045 5020
+Growth Equity Fund: $9565
+  D 20046 15000
+  W 20046 5435
+Growth Index Fund: $15000
+  D 20047 15000
+Value Fund: $7133
+  D 20048 15000
+  W 20048 130500 (Failed)
+  W 20048 7867
+Value Stock Index: $12658
+  D 20049 15000
+  W 20049 2342
+
+Processing Done. Final Balances
+John Smith Account ID: 2000
+    Money Market: $0
+    Prime Money Market: $0
+    Long-Term Bond: $0
+    Short-Term Bond: $0
+    500 Index Fund: $0
+    Capital Value Fund: $0
+    Growth Equity Fund: $0
+    Growth Index Fund: $0
+    Value Fund: $0
+    Value Stock Index: $0
+
+Adams Jack Account ID: 2001
+    Money Market: $42977
+    Prime Money Market: $15506
+    Long-Term Bond: $0
+    Short-Term Bond: $4274
+    500 Index Fund: $10000
+    Capital Value Fund: $4980
+    Growth Equity Fund: $10000
+    Growth Index Fund: $10000
+    Value Fund: $10000
+    Value Stock Index: $10000
+
+Adams Cindy Account ID: 2002
+    Money Market: $7977
+    Prime Money Market: $0
+    Long-Term Bond: $15000
+    Short-Term Bond: $0
+    500 Index Fund: $15000
+    Capital Value Fund: $15000
+    Growth Equity Fund: $15000
+    Growth Index Fund: $15000
+    Value Fund: $15000
+    Value Stock Index: $15000
+
+Jones Jillian Account ID: 2003
+    Money Market: $10350
+    Prime Money Market: $15000
+    Long-Term Bond: $15000
+    Short-Term Bond: $15000
+    500 Index Fund: $14013
+    Capital Value Fund: $15000
+    Growth Equity Fund: $15000
+    Growth Index Fund: $14877
+    Value Fund: $14097
+    Value Stock Index: $14424
+
+Gibbons Adam Account ID: 2004
+    Money Market: $19650
+    Prime Money Market: $15000
+    Long-Term Bond: $22053
+    Short-Term Bond: $6285
+    500 Index Fund: $15000
+    Capital Value Fund: $9980
+    Growth Equity Fund: $9565
+    Growth Index Fund: $15000
+    Value Fund: $7133
+    Value Stock Index: $12658
