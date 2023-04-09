@@ -21,7 +21,7 @@ class Transaction:
     def get_type(self):
         return self.__type
 
-    # A function that returns the transaction as a string.
+    # A function that returns the transaction as a string.    
     def get_transaction_str(self):
         return self.__transaction_str
 
