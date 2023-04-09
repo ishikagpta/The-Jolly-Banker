@@ -4,7 +4,7 @@ from account import Account
 from bank import Bank
 
 # Main driver for JollyBanker which reads the files, executes the transactions,
-# and prints all open accounts and transactions
+# and prints all open accounts and transactions 
 
 
 class JollyBanker:
