@@ -4,7 +4,7 @@ from account import Account
 from transaction import Transaction
 
 # This class handles all of the functionalities of a Bank such as reading and storing transactions, creating accounts,
-# passing transactions data to accounts, and handling any transactions that include multiple accounts.
+# passing transactions data to accounts, and handling any transactions that include multiple accounts.   
 # At the end, it prints all open accounts and funds within the accounts.
 class Bank:
 
