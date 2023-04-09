@@ -3,7 +3,7 @@ from fund import Fund
 # This class represents a bank account, its funds, and transactions/transaction history
 class Account:
 
-    # The constructor takes in the first name, last name, identifier and creates an account and its needed funds
+    # The constructor takes in the first name, last name, identifier and creates an account and its needed funds   
     def __init__(self, first_name, last_name, identifier):
         self.__first_name = first_name
         self.__last_name = last_name
