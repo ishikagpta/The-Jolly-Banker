@@ -6,6 +6,6 @@ The Jolly Banker is a banking application consisting of three phases:
 
 2) The program will next read from the queue and process the transactions in order.
 
-3)  When the queue has been depleted the program will print out all open accounts and balances in those accounts.
+3)  When the queue has been depleted the program will print out all open accounts and balances in those accounts.  
 
 A more detailed description file is posted. 
