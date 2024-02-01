@@ -68,7 +68,7 @@ class Bank:
                     self.__history_of_single_fund(transaction)
 
     # A function that takes in a transaction object and verifies the account identifier is not in the BST and then
-    # creates it and adds it to the BST.
+    # creates it and adds it to the BST.  
     def __open_account(self, transaction):
         identifier = int(transaction.get_first_id())
         # check if the account is already their - with this id
